@@ -2,4 +2,4 @@
 
 ## CPSC 436 Individual Assignment
 
-This is the server side for my 436 MERN stack app. It’s build on NodeJS/Express.
+This is the server side for my CPSC 436i MERN stack app. It’s built on NodeJS/Express.
